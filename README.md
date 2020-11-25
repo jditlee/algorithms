@@ -2,7 +2,7 @@
 algorithms for java
 
 - [x] array 2020/06/24-2020/11/23
-- [ ] string
+- [ ] string 2020/11/24-
 - [ ] 链表
 - [ ] 树
 - [ ] 排序和搜索
@@ -10,4 +10,9 @@ algorithms for java
 - [ ] 设计问题
 - [ ] 数学
 - [ ] 其它
+
+```
+* 所有题目来源：力扣（LeetCode）
+* 链接：https://leetcode-cn.com
+```
 
