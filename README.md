@@ -4,7 +4,7 @@ algorithms for java
 [讨论](https://gitter.im/lingyunxin/community)
 
 - [x] array 2020/06/24-2020/11/23
-- [ ] string 2020/11/24-
+- [x] string 2020/11/24-2020/11/27
 - [ ] 链表
 - [ ] 树
 - [ ] 排序和搜索
